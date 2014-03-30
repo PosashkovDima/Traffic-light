@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Example 4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+
+    <color name="a" value="#FFFF0000" />
+    <color name="yellowColor" value="#FFFF00" />
+    <color name="greenColor" value="#FF00FF00" />
+
+</resources>
